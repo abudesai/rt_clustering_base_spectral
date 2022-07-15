@@ -1,0 +1,4 @@
+field_num,field_name,data_type,field_use_type
+1,id,TEXT,ID
+2,x1,NUMERIC,INPUT
+3,x2,NUMERIC,INPUT

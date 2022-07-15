@@ -1,0 +1,13 @@
+{
+  "problemCategory": "clustering_base",
+  "version": "1.0",
+  "inputDatasets": {
+    "clusteringBaseMainInput": {
+      "idField": "id",
+      "inputFields": [
+        { "fieldName": "x1", "dataType": "NUMERIC" },
+        { "fieldName": "x2", "dataType": "NUMERIC" }
+      ]
+    }
+  }
+}

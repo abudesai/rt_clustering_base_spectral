@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+SpectralClustering,no_structure,1.0,0.0,0.8694,3770.6038,0.3746,0.02

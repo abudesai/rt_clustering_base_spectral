@@ -1,0 +1,10 @@
+pandas==1.4.2
+scikit-learn==1.1.1
+feature-engine==1.2.0
+scikit-optimize==0.9.0
+pymongo==4.1.1
+flask==2.0.2
+gunicorn==20.1.0
+threadpoolctl==3.0
+numpy~=1.23.1
+joblib~=1.1.0

@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+SpectralClustering,noisy_circles,0.5054,-0.0001,1.1718,3015.76,0.3672,0.03

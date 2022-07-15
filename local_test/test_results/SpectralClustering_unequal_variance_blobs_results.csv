@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+SpectralClustering,unequal_variance_blobs,0.9798,0.9276,0.5557,23138.124,0.6415,0.02

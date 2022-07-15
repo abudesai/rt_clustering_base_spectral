@@ -1,0 +1,7 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+SpectralClustering,anisotropic,0.8488,0.675,0.8664,5346.4722,0.4475,0.02
+SpectralClustering,equal_variance_blobs,0.9044,0.7195,0.6917,6530.1203,0.5074,0.02
+SpectralClustering,noisy_moons,0.8748,0.461,0.8372,6189.2528,0.4722,0.02
+SpectralClustering,noisy_circles,0.5054,-0.0001,1.1718,3015.76,0.3672,0.03
+SpectralClustering,unequal_variance_blobs,0.9798,0.9276,0.5557,23138.124,0.6415,0.02
+SpectralClustering,no_structure,1.0,0.0,0.8694,3770.6038,0.3746,0.02

@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+SpectralClustering,anisotropic,0.8488,0.675,0.8664,5346.4722,0.4475,0.02

@@ -1,0 +1,2 @@
+model,dataset_name,purity,ami,dbi,chi,silhouette,elapsed_time_in_minutes
+SpectralClustering,noisy_moons,0.8748,0.461,0.8372,6189.2528,0.4722,0.02
